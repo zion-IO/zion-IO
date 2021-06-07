@@ -7,7 +7,7 @@
   <samp>
     Hola, soy Fernando Robles Rivera :wave:
     <br><br>
-    Trabajo como Software Development Ssr. en Mercado Libre :globe_with_meridians: developer!
+    Trabajo como :globe_with_meridians: Software Development Ssr. en Mercado Libre!
     <br><br>
     Vivo in México :mexico:
     <br><br>
