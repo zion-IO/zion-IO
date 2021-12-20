@@ -59,7 +59,7 @@
 
 ### Stats 
 
-![IO-bit github stats](https://github-readme-stats.vercel.app/api?username=IO-bit&show_icons=true&line_height=30)
+![IO-bit github stats](https://github-readme-stats.vercel.app/api?username=Zion-IO&show_icons=true&line_height=30)
 
 
 ---
